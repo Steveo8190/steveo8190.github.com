@@ -48,14 +48,15 @@
             <p>Text about the project</p>
             <p>More text about the project.</p>
             <a href="#">Link about the project</a><br>
-            <a href="#">code of the project</a><br>
+            <a href="https://app.pickcode.io/share/cmhowcfko6fxu11jyrk4e00xv">Preview of the project</a><br>
+            <a href="https://app.pickcode.io/project/cmhowcfko6fxu11jyrk4e00xv">code of the project</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a><br>-->
             <!--EXAMPLE OF GITHUB LINK-->
             <!--<a href="http://github.com/yourUserName/yourRepoName">Github</a><br>-->
 
-            <img src="../img/avatar.png" class="img-fluid project-img">
+            <img src="../img/Movie-project.png" class="img-fluid project-img">
 
 
             <div class="row">
